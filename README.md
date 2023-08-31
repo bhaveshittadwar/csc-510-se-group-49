@@ -1,6 +1,6 @@
 # Todos
-- The score cards for the prospect projects wil go in `proj1\README.md`
-- How to commit? -> https://www.conventionalcommits.org/en/v1.0.0/ 
+- The score cards for the prospect projects will go in `proj1\README.md`
+- Commit conventions? -> https://www.conventionalcommits.org/en/v1.0.0/ 
 > [!NOTE]
 > We'll mostly use the 'docs:' prefix for any additions/changes to md files
 - Project Rubric to refer for scoring -> https://github.com/txt/se23/blob/main/docs/project2.md
