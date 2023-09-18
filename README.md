@@ -12,6 +12,9 @@
 
 # Video
 
+https://github.com/bhaveshittadwar/csc-510-se-group-49/assets/71286830/bdb13f88-f6d0-4d1c-8803-c9d975687018
+
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/EUrRv3wOszg/0.jpg)](https://www.youtube.com/watch?v=EUrRv3wOszg)
 
 ### Todos
