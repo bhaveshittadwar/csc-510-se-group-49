@@ -12,6 +12,7 @@
 
 # Video
 https://github.com/bhaveshittadwar/csc-510-se-group-49/assets/71286830/77590eeb-8917-406b-8bc2-061660244810
+- Link https://www.youtube.com/watch?v=EUrRv3wOszg&t=1s
 
 ### Todos
 - The score cards for the prospect projects will go in `proj1\README.md`
