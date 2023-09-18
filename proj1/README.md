@@ -1,6 +1,10 @@
 > [!IMPORTANT]
 > Scored the project prospects according to [this](https://github.com/txt/se23/blob/main/docs/project2.md) rubric
 
+#  Working project video
+https://github.com/bhaveshittadwar/csc-510-se-group-49/assets/71286830/77590eeb-8917-406b-8bc2-061660244810
+- Link https://www.youtube.com/watch?v=EUrRv3wOszg&t=1s
+
 # Project Rubrics
 ## 1. 'g' - MyDollarBot: https://github.com/prithvish-doshi-17/MyDollarBot-BOTGo
 
