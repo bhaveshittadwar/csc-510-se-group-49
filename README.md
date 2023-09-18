@@ -11,7 +11,7 @@
 - We decided to go ahead with the project 'g' - MyDollarBot: https://github.com/prithvish-doshi-17/MyDollarBot-BOTGo
 
 # Video
-- https://github.com/bhaveshittadwar/csc-510-se-group-49/assets/71286830/77590eeb-8917-406b-8bc2-061660244810
+https://github.com/bhaveshittadwar/csc-510-se-group-49/assets/71286830/77590eeb-8917-406b-8bc2-061660244810
 
 ### Todos
 - The score cards for the prospect projects will go in `proj1\README.md`
