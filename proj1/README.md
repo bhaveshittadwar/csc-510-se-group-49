@@ -1,5 +1,11 @@
 > [!IMPORTANT]
 > Scored the project prospects according to [this](https://github.com/txt/se23/blob/main/docs/project2.md) rubric
+# Index
+1) Working Project video
+2) Reflecting on the Challenges and Lessons Learned(750 words+)
+3) Project Rubrics
+
+
 
 #  Working project video
 https://github.com/bhaveshittadwar/csc-510-se-group-49/assets/71286830/77590eeb-8917-406b-8bc2-061660244810
