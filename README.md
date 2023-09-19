@@ -1,5 +1,5 @@
 # Directions
-- Find the project rubric at https://github.com/bhaveshittadwar/csc-510-se-group-49/blob/main/proj1/README.md
+- Find the project rubric, videos and 750 words writeup at https://github.com/bhaveshittadwar/csc-510-se-group-49/blob/main/proj1/README.md
 - Projects assessed: 
 1. 'g' - MyDollarBot: https://github.com/prithvish-doshi-17/MyDollarBot-BOTGo
 2. 'R' - Movie Recommender: https://github.com/git-ankit/MovieRecommender
